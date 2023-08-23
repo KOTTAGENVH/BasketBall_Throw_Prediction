@@ -5,4 +5,4 @@ For installation of imports:
 pip3 install colorfinder\
 pip install cvzone\
 pip install numpy\
-Video sourced from(cvzone)
+Video sourced from(https://www.computervision.zone/courses/basket-ball-shot-predictor/)
